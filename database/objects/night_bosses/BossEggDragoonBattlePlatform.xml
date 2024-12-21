@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Template>
+  <AddRangeDistance type="float" default="0" description="" />
+  <GroundOffset type="float" default="0" description="" />
+  <IsDefaultHide type="bool" default="false" description="" />
+  <IsLast type="bool" default="false" description="" />
+  <Type type="float" default="0" description="" />
+</Template>
