@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Template>
+  <FirstState type="integer" default="0" description="" />
+  <GroundOffset type="float" default="0" description="" />
+  <PatrolType type="integer" default="0" description="" />
+  <Personality type="integer" default="3" description="" />
+  <StartWayPointID type="integer" default="0" description="" />
+  <TargetList type="id_list" description="" />
+</Template>
