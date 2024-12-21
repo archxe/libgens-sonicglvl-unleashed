@@ -19,6 +19,10 @@ This fork includes:
 - Town Objects such as NPCs
 - Stage/Country-specific gimmick objects
 
-This does not include: Sonic Unleashed Shaders (which means a majority of stages will render incorrectly) and Object models for the editor (these must be extracted from the game files yourself).
+This does not include:
+- Sonic Unleashed Shaders (which means a majority of stages will render incorrectly)
+- Object models for the editor (these must be extracted from the game files yourself).
+
 I plan to update these templates to add any missing objects (mostly from missions and unused objects not present in any existing layouts)
+
 The more detailed templates were provided to me by GordinRamsay (https://github.com/GordinRamsay) and uploaded with consent.
