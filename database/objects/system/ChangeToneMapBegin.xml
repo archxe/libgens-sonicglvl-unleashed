@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Template>
+  <Collision_Height type="float" default="37" description="" />
+  <Collision_Width type="float" default="33" description="" />
+  <EaseTime type="float" default="1" description="" />
+  <GroundOffset type="float" default="0" description="" />
+  <ID type="float" default="0" description="" />
+  <ToneMapMiddleGray type="float" default="0.350002" description="" />
+  <ToneMapSimpleScale type="float" default="1" description="" />
+</Template>

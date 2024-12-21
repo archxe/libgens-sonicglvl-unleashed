@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Template>
+  <Collision_Height type="float" default="14" description="" />
+  <Collision_Width type="float" default="14" description="" />
+  <EventCollision_Depth type="float" default="0.1" description="" />
+  <GroundOffset type="float" default="0" description="" />
+</Template>

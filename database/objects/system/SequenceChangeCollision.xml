@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Template>
+  <Collision_Height type="float" default="10" description="" />
+  <Collision_Length type="float" default="10" description="" />
+  <Collision_Width type="float" default="20" description="" />
+  <DefaultStatus type="float" default="0" description="" />
+  <Event type="string" default="GetAwayFromAfricaTown" description="" />
+  <GroundOffset type="float" default="0" description="" />
+  <Shape_Type type="float" default="0" description="" />
+  <Type type="float" default="0" description="" />
+</Template>

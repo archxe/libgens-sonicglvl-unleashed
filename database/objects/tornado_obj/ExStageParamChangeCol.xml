@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Template>
+  <BossDist type="float" default="150" description="" />
+  <BossSpeed type="float" default="12" description="" />
+  <Collision_Height type="float" default="10" description="" />
+  <Collision_Length type="float" default="10" description="" />
+  <Collision_Width type="float" default="10" description="" />
+  <DefaultStatus type="float" default="0" description="" />
+  <GroundOffset type="float" default="0" description="" />
+  <HatchState type="float" default="0" description="" />
+  <IsChangeBossParamDist type="bool" default="false" description="" />
+  <IsChangeBossParamSpeed type="bool" default="false" description="" />
+  <IsChangePlayerParamSpeed type="bool" default="true" description="" />
+  <PlayExSound type="float" default="-1" description="" />
+  <PlaySmokeEffect type="bool" default="false" description="" />
+  <PlayerMotion type="float" default="3" description="" />
+  <PlayerSpeed type="float" default="83" description="" />
+  <Shape_Type type="float" default="0" description="" />
+</Template>
