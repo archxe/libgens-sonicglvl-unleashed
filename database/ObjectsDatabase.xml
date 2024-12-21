@@ -1,38 +1,50 @@
 <?xml version="1.0" ?>
 <LevelDatabase>
-  <Entry name="SonicGLvl Helpers" folder="helpers" />
-  <Entry name="Common (Mobility Gimmicks)" folder="common_movement" />
-  <Entry name="Common (Damage Gimmicks)" folder="common_hazard" />
-  <Entry name="Common (Items/Goals)" folder="common_item" />
+  <Entry name="Common Objects" folder="common" />
+  <Entry name="Town/ETF Objects" folder="town" />
   <Entry name="Cameras" folder="cameras" />
   <Entry name="System Objects" folder="system" />
   <Entry name="Player System Objects" folder="playersystem" />
-  <Entry name="Enemies" folder="enemies" />
-  <Entry name="Sounds" folder="sounds" />
-  <Entry name="Platforms" folder="platforms" />
-  <Entry name="Breakables" folder="breakables" />
-  <Entry name="Playable Menu" folder="pam" />
-  <Entry name="Green Hill Zone" folder="ghz" />
-  <Entry name="Chemical Plant Zone" folder="cpz" />
-  <Entry name="Sky Sanctuary Zone" folder="ssz" />
-  <Entry name="Speed Highway" folder="sph" />
-  <Entry name="City Escape" folder="cte" />
-  <Entry name="Seaside Hill" folder="ssh" />
-  <Entry name="Crisis City" folder="csc" />
-  <Entry name="Rooftop Run" folder="euc" />
-  <Entry name="Planet Wisp" folder="pla" />
-  <Entry name="Pinball (Casino Night DLC)" folder="cnz" />
-  <Entry name="Metal Sonic" folder="bms" />
-  <Entry name="Shadow" folder="bsd" />
-  <Entry name="Silver" folder="bsl" />
-  <Entry name="Death Egg Robot" folder="bde" />
-  <Entry name="Perfect Chaos" folder="bpc" />
-  <Entry name="Egg Dragoon" folder="bne" />
-  <Entry name="Time Eater" folder="blb" />
-  <Entry name="Mission Objects" folder="mission" />
   <Entry name="Navigation Hints" folder="navi" />
-  <Entry name="Sonic Unleashed (Generations Compatible)" folder="unleashed_compatible" />
-  <Entry name="Sonic Unleashed" folder="unleashed" />
-  <Entry name="Unassigned" folder="unassigned" />
-  <Entry name="Unused (Listed in ObjectDefine)" folder="unused" />
+  <Entry name="Mission Objects" folder="mission" />
+  <Entry name="Sound" folder="sounds" />
+  <Entry name="Day Objects" folder="day_objects" />
+  <Entry name="Day Enemies" folder="day_enemies" />
+  <Entry name="Day Bosses" folder="day_bosses" />
+  <Entry name="Night Objects" folder="night_objects" />
+  <Entry name="Night Enemies" folder="night_enemies" />
+  <Entry name="Night Bosses" folder="night_bosses" />
+  <Entry name="Apotos Day Objects" folder="mykonos_day" />
+  <Entry name="Apotos Night Objects" folder="mykonos_night" />
+  <Entry name="Apotos Town Objects" folder="npc_mykonos" />
+  <Entry name="Mazuri Day Objects" folder="africa_day" />
+  <Entry name="Mazuri Night Objects" folder="africa_night" />
+  <Entry name="Mazuri Town Objects" folder="npc_africa" />
+  <Entry name="Spagonia Day Objects" folder="euc_day" />
+  <Entry name="Spagonia Night Objects" folder="euc_night" />
+  <Entry name="Spagonia Town Objects" folder="npc_euc" />
+  <Entry name="Chun Nan Day Objects" folder="china_day" />
+  <Entry name="Chun Nan Night Objects" folder="china_night" />
+  <Entry name="Chun Nan Town Objects" folder="npc_china" />
+  <Entry name="Holoska Day Objects" folder="holoska_day" />
+  <Entry name="Holoska Night Objects" folder="holoska_night" />
+  <Entry name="Holoska Town Objects" folder="npc_holoska" />
+  <Entry name="Shamar Day Objects" folder="shamar_day" />
+  <Entry name="Shamar Night Objects" folder="shamar_night" />
+  <Entry name="Shamar Town Objects" folder="npc_shamar" />
+  <Entry name="Empire City Day Objects" folder="nyc_day" />
+  <Entry name="Empire City Night Objects" folder="nyc_night" />
+  <Entry name="Empire City Town Objects" folder="npc_nyc" />
+  <Entry name="Adabat Day Objects" folder="adabat_day" />
+  <Entry name="Adabat Night Objects" folder="adabat_night" />
+  <Entry name="Adabat Town Objects" folder="npc_adabat" />
+  <Entry name="EggmanLand Objects" folder="eggman_obj" />
+  <Entry name="EggmanLand Town Objects" folder="npc_eggman" />
+  <Entry name="Lab Objects" folder="npc_lab" />
+  <Entry name="Dark Gaia Objects" folder="darkgaia_obj" />
+  <Entry name="Tornado Defence Objects" folder="tornado_obj" />
+  <Entry name="Common Unused" folder="unused" />
+  <Entry name="Day Unused" folder="unused_day" />
+  <Entry name="Night Unused" folder="unused_night" />
+  <Entry name="Unassigned" folder="" />
 </LevelDatabase>
