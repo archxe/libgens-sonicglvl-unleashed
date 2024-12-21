@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Template>
+  <Collision_X type="float" default="65" description="" />
+  <Collision_Y type="float" default="24" description="" />
+  <Collision_Z type="float" default="21" description="" />
+  <GroundOffset type="float" default="0" description="" />
+  <Interval type="float" default="0.5" description="" />
+  <LifeTime type="float" default="20" description="" />
+  <NumBullet type="float" default="10" description="" />
+  <NumShotOneTime type="float" default="3" description="" />
+  <OnlyPlayerAttack type="bool" default="true" description="" />
+  <PlayAppearEffect type="bool" default="true" description="" />
+  <RadiusAction type="float" default="30" description="" />
+  <RadiusSearch type="float" default="50" description="" />
+  <ShotType type="float" default="0" description="" />
+  <Type type="float" default="0" description="" />
+  <ViewAngleTate type="float" default="30" description="" />
+  <ViewAngleYoko type="float" default="30" description="" />
+  <Extra type="model" name="em_eday_cang_hi.model" />
+</Template>

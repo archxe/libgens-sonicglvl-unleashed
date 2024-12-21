@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Template>
+  <CollisionRange type="float" default="1000" description="" />
+  <GenerateNum type="float" default="1" description="" />
+  <GroundOffset type="float" default="0" description="" />
+  <LifeTime type="float" default="10.0999" description="" />
+  <Radius type="float" default="1" description="" />
+  <RestartTime type="float" default="5" description="" />
+  <SizeType type="float" default="1" description="" />
+  <Speed type="float" default="100" description="" />
+</Template>
