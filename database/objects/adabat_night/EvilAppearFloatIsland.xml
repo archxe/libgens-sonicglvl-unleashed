@@ -1,5 +1,0 @@
-<?xml version="1.0" ?>
-<Template>
-  <GroundOffset type="float" default="0" description="" />
-  <StabilityTime type="float" default="20" description="" />
-</Template>
