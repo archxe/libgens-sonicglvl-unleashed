@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Template>
+  <ClearTime type="float" default="0.5" description="" />
+  <ColliRangeBoxScale.x type="float" default="24" description="" />
+  <ColliRangeBoxScale.y type="float" default="21" description="" />
+  <ColliRangeBoxScale.z type="float" default="14" description="" />
+  <ColliRangeSphereRadius type="float" default="15" description="" />
+  <Density type="float" default="50" description="" />
+  <DensityTime type="float" default="1" description="" />
+  <GroundOffset type="float" default="0" description="" />
+  <IsDebugDraw type="bool" default="false" description="" />
+  <IsUseBoxRange type="bool" default="false" description="" />
+  <LeaveTimeMax type="float" default="0.5" description="" />
+  <MoveDir.x type="float" default="0" description="" />
+  <MoveDir.y type="float" default="0" description="" />
+  <MoveDir.z type="float" default="1" description="" />
+  <MoveSpeedMax type="float" default="1.7" description="" />
+  <MoveSpeedMin type="float" default="1.5" description="" />
+  <OffsetYMax type="float" default="0.5" description="" />
+  <OffsetYMin type="float" default="-0.5" description="" />
+  <RangeBoxScale.x type="float" default="25" description="" />
+  <RangeBoxScale.y type="float" default="15" description="" />
+  <RangeBoxScale.z type="float" default="15" description="" />
+  <RangeSphereRadius type="float" default="15" description="" />
+  <ScaleMax type="float" default="4" description="" />
+  <ScaleMin type="float" default="2" description="" />
+</Template>
