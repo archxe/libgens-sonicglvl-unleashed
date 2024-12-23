@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <Template>
+  <Target type="id" description="" />
   <Camera1 type="id" description="" />
-  <Camera10 type="id" description="" />
   <Camera2 type="id" description="" />
   <Camera3 type="id" description="" />
   <Camera4 type="id" description="" />
@@ -10,6 +10,7 @@
   <Camera7 type="id" description="" />
   <Camera8 type="id" description="" />
   <Camera9 type="id" description="" />
+  <Camera10 type="id" description="" />
   <Collision_Height type="float" default="30" description="" />
   <Collision_Length type="float" default="100" description="" />
   <Collision_Width type="float" default="100" description="" />
@@ -18,8 +19,7 @@
   <Ease_Time_Leave type="float" default="2" description="" />
   <GroundOffset type="float" default="0" description="" />
   <IsCameraView type="bool" default="false" description="" />
-  <LineType type="float" default="0" description="" />
-  <PositionList type="undefined" description="" />
+  <LineType type="integer" default="0" description="0 = Z Direction, 1 = User Defined" />
+  <PositionList type="vector" description="" />
   <Shape_Type type="float" default="2" description="" />
-  <Target type="id" description="" />
 </Template>
