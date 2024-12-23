@@ -22,4 +22,5 @@
   <LineType type="integer" default="0" description="0 = Z Direction, 1 = User Defined" />
   <PositionList type="vector" description="" />
   <Shape_Type type="float" default="2" description="" />
+  <Extra type="model" name="Camera.mesh" />
 </Template>
