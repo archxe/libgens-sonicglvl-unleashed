@@ -23,4 +23,5 @@
   <Phase type="float" default="0" description="" />
   <PressDirection type="float" default="0" description="" />
   <ResetTime type="float" default="5" description="" />
+  <Extra type="model" name="myk_area05_ha_floatstone.model" />
 </Template>
