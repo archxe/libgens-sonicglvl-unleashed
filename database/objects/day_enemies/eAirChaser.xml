@@ -16,5 +16,5 @@
   <NumEnemy type="float" default="1" description="" />
   <SnapOnPath type="bool" default="false" description="" />
   <WavingVelocity type="float" default="180" description="" />
-  <Extra type="model" name="enm_eggchaser_HD.model" />
+  <Extra type="model" name="em_eday_chse_hi.model" />
 </Template>
