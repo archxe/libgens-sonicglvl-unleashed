@@ -6,11 +6,10 @@
   <PlayAppearEffect type="bool" default="false" description="" />
   <RadiusActive type="float" default="80" description="" />
   <RadiusAttack type="float" default="10" description="" />
-  <StartWayPointID type="float" default="0" description="" />
-  <Type type="float" default="0" description="" />
+  <StartWayPointID type="id" description="Connect to a WayPointDay object" />
+  <Type type="integer" default="0" description="" />
   <GroundOffset type="float" default="0" description="" />
   <IsCastShadow type="bool" default="true" description="" />
-  <Range type="float" default="200" description="" />
   
-  <Extra type="model" name="enm_eggfighter_HD.model" />
+  <Extra type="model" name="em_eday_ef2n_hi.model" />
 </Template>

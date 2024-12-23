@@ -9,8 +9,8 @@
   <PlayAppearEffect type="bool" default="false" description="" />
   <RadiusActive type="float" default="20" description="" />
   <RadiusAttack type="float" default="60" description="" />
-  <ShotType type="float" default="0" description="" />
-  <StartWayPointID type="float" default="0" description="" />
-  <Type type="float" default="0" description="" />
+  <ShotType type="integer" default="0" description="" />
+  <StartWayPointID type="id" description="Connect to a WayPointDay object" />
+  <Type type="integer" default="0" description="" />
   <UseChibi type="bool" default="false" description="" />
 </Template>

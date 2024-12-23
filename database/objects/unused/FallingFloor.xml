@@ -7,6 +7,7 @@
   <IsMessageON type="bool" default="false" description="" />
   <ResetTime type="float" default="5" description="" />
   <ScaleX type="float" default="5" description="" />
-  <ScaleY type="float" default="0.5" description="" />
+  <ScaleY type="float" default="5" description="" />
   <ScaleZ type="float" default="5" description="" />
+  <Extra type="description" name="A debug floor that falls after a set amount of time" />
 </Template>

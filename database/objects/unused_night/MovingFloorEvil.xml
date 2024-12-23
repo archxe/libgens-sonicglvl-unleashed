@@ -12,4 +12,5 @@
   <ScaleY type="float" default="8.7" description="" />
   <ScaleZ type="float" default="5" description="" />
   <StopTime type="float" default="0" description="" />
+  <Extra type="description" name="A debug floor that moves - Werehog Edition" />
 </Template>

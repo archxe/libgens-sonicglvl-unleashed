@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <Template>
-  <BalloonColor type="float" default="1" description="Color of the balloon.
+  <BalloonColor type="integer" default="1" description="Color of the balloon.
   1: Blue   2: Green   3: Red   4: Yellow" />
   <GroundOffset type="float" default="0" description="" />
   <ReviveTime type="float" default="3" description="Time taken before respawning." />

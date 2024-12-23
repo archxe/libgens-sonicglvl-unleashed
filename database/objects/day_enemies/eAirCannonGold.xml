@@ -9,8 +9,8 @@
   <PlayAppearEffect type="bool" default="true" description="" />
   <RadiusAction type="float" default="30" description="" />
   <RadiusSearch type="float" default="50" description="" />
-  <ShotType type="float" default="1" description="" />
-  <Type type="float" default="1" description="" />
+  <ShotType type="integer" default="1" description="" />
+  <Type type="integer" default="1" description="" />
   <ViewAngleTate type="float" default="30" description="" />
   <ViewAngleYoko type="float" default="30" description="" />
   <Extra type="model" name="em_eday_cang_hi.model" />

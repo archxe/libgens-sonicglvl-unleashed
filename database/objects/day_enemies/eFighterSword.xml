@@ -10,9 +10,9 @@
   <PlayAppearEffect type="bool" default="false" description="" />
   <RadiusActive type="float" default="20" description="" />
   <RadiusAttack type="float" default="5" description="" />
-  <ShieldType type="float" default="2" description="" />
+  <ShieldType type="integer" default="2" description="" />
   <StartTime type="float" default="2" description="" />
-  <StartWayPointID type="float" default="0" description="" />
-  <Type type="float" default="0" description="" />
+  <StartWayPointID type="id" description="Connect to a WayPointDay object" />
+  <Type type="integer" default="0" description="" />
   <Extra type="model" name="em_eday_ef2n_hi.model" />
 </Template>

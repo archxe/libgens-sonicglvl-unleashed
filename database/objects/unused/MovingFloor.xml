@@ -12,4 +12,5 @@
   <ScaleY type="float" default="2" description="" />
   <ScaleZ type="float" default="2" description="" />
   <Layer type="float" default="2" description="" />
+  <Extra type="description" name="A debug floor that moves" />
 </Template>

@@ -7,8 +7,8 @@
   <NumShotOneTime type="float" default="3" description="" />
   <RadiusAppear type="float" default="40" description="" />
   <RadiusEscape type="float" default="10" description="" />
-  <ShotType type="float" default="0" description="" />
-  <Type type="float" default="0" description="" />
+  <ShotType type="integer" default="0" description="" />
+  <Type type="integer" default="0" description="" />
   <OnlyPlayerAttack type="bool" default="false" description="" />
   <PlayAppearEffect type="bool" default="false" description="" />
   

@@ -5,4 +5,5 @@
   <ScaleY type="float" default="1.5" description="" />
   <ScaleZ type="float" default="7" description="" />
   <IsIce type="bool" default="false" description="" />
+  <Extra type="description" name="A debug floor" />
 </Template>
