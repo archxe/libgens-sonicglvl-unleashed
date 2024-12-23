@@ -13,4 +13,5 @@
   <StartWayPointID type="id" description="Connect to a WayPointDay object" />
   <Type type="integer" default="0" description="" />
   <UseChibi type="bool" default="false" description="" />
+  <Extra type="model" name="em_eday_ef2g_hi.model" />
 </Template>
