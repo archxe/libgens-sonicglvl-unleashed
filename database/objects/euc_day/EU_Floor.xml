@@ -24,5 +24,5 @@
   <PressDirection type="float" default="0" description="" />
   <ResetTime type="float" default="5" description="" />
   
-  <Extra type="model" name="ssz_obj_floorA_5b_R.model" />
+  <Extra type="model" name="euc_obj_km_floatingboard_000.model" />
 </Template>
