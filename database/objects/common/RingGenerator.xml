@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-<Template>
-  <Count type="integer" default="2" description="Number of rings to spawn" />
-  <GroundOffset type="float" default="0" description="" />
-  <Interval type="float" default="1.5" description="Space between each ring" />
-  
-  <Extra type="description" name="An unused object which spawns rings in a straight line." />
-</Template>
