@@ -6,4 +6,5 @@
   <PlayAppearEffect type="bool" default="false" description="" />
   <RadiusActive type="float" default="10" description="" />
   <RadiusAttack type="float" default="5" description="" />
+  <Extra type="model" name="em_eday_eshk_hi.model" />
 </Template>
