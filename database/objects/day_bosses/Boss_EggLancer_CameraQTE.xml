@@ -10,4 +10,5 @@
   <IsCollision type="bool" default="true" description="" />
   <SrcOffsetY type="float" default="2" description="" />
   <SrcOffsetZ type="float" default="-5" description="" />
+  <Extra type="model" name="Camera.mesh" />
 </Template>
