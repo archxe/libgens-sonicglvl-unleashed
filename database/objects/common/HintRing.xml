@@ -21,4 +21,5 @@
   <TimerOn2 type="float" default="0" description="" />
   <UsePicture type="bool" default="false" description="" />
   <WaitEvent type="bool" default="false" description="" />
+  <Extra type="model" name="cmn_obj_sk2_hintring.model" />
 </Template>
