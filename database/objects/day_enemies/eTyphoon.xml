@@ -7,4 +7,5 @@
   <OnlyPlayerAttack type="bool" default="false" description="" />
   <PlayAppearEffect type="bool" default="false" description="" />
   <StartTime type="float" default="2" description="" />
+  <Extra type="model" name="em_eday_gtyp_hi.model" />
 </Template>
