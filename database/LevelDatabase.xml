@@ -29,15 +29,12 @@
   <Entry name="ActD_SubAfrica_02"     geometry="ActD_SubAfrica_02"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
   <Entry name="ActD_SubAfrica_04"     geometry="BossEggBeetle"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
   <Entry name="BossEggBeetle"     geometry="BossEggBeetle"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
-  <Entry name="ActD_Africa_20080621"     geometry="ActD_Africa_20080621"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
  
   <!-- Savannah Citadel Night   -->
   <Entry name="ActN_AfricaEvil"     geometry="ActN_AfricaEvil"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
   <Entry name="ActN_SubAfrica_01"     geometry="ActN_SubAfrica_01"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
   <Entry name="ActN_SubAfrica_02"     geometry="ActN_SubAfrica_02"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
   <Entry name="ActN_SubAfrica_03"     geometry="ActN_SubAfrica_03"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
-  <Entry name="ActN_AfricaEvil_Dje_20080619"     geometry="ActN_AfricaEvil_Dje_20080619"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
-  <Entry name="ActN_AfricaEvil_Bao_20080619"     geometry="ActN_AfricaEvil_Bao_20080619"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
  
   <!-- Savannah Citadel Towns   -->
   <Entry name="Town_Africa"     geometry="Town_Africa"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
@@ -59,7 +56,6 @@
   <Entry name="ActN_EUEvil"     geometry="ActN_EUEvil"        layout_merge=""     slot="Spagonia"    game="Unleashed" />
   <Entry name="ActN_SubEU_02"     geometry="ActN_EUEvil"        layout_merge=""     slot="Spagonia"     game="Unleashed" />
   <Entry name="ActN_SubEU_01"     geometry="ActN_SubEU_01"        layout_merge=""     slot="Spagonia"     game="Unleashed" />
-  <Entry name="ActN_EUEvil_20080604"     geometry="ActN_EUEvil_20080604"        layout_merge=""     slot="Spagonia"     game="Unleashed" />
  
   <!-- Rooftop Run Towns -->
   <Entry name="Town_EuropeanCity"     geometry="Town_EuropeanCity"        layout_merge=""     slot="Spagonia"     game="Unleashed" />
@@ -84,7 +80,6 @@
   <Entry name="ActN_SubChina_01"     geometry="ActN_SubChina_01"        layout_merge=""     slot="ChunNan"     game="Unleashed" />
   <Entry name="ActN_SubChina_02"     geometry="ActN_SubChina_02"        layout_merge=""     slot="ChunNan"     game="Unleashed" />
   <Entry name="BossPhoenix"     geometry="BossPhoenix"        layout_merge=""     slot="ChunNan"     game="Unleashed" />
-  <Entry name="ActN_ChinaEvil_20080609"     geometry="ActN_ChinaEvil_20080609"        layout_merge=""     slot="ChunNan"     game="Unleashed" />
  
   <!-- Dragon Road Towns  -->
   <Entry name="Town_China"     geometry="Town_China"        layout_merge=""     slot="ChunNan"     game="Unleashed" />
@@ -99,7 +94,6 @@
   <Entry name="ActD_SubSnow_05"     geometry="ActD_SubSnow_01"        layout_merge=""     slot="Holoska"     game="Unleashed" />
   <Entry name="ActD_SubSnow_02"     geometry="ActD_SubSnow_02"        layout_merge=""     slot="Holoska"     game="Unleashed" />
   <Entry name="ActD_SubSnow_03"     geometry="ActD_SubSnow_03"        layout_merge=""     slot="Holoska"     game="Unleashed" />
-  <Entry name="ActD_Snow_20080618"     geometry="ActD_Snow_20080618"        layout_merge=""     slot="Holoska"     game="Unleashed" />
  
   <!-- Cool Edge Night  -->
   <Entry name="ActN_SnowEvil"     geometry="ActN_SnowEvil"        layout_merge=""     slot="Holoska"    game="Unleashed" />
@@ -188,5 +182,41 @@
   <Entry name="BossDarkGaia1_2Run"     geometry="BossDarkGaia1_2Run"        layout_merge=""     slot="DarkGaia"     game="Unleashed" />
   <Entry name="BossDarkGaia1_3Run"     geometry="BossDarkGaia1_3Run"        layout_merge=""     slot="DarkGaia"     game="Unleashed" />
   <Entry name="BossFinalDarkGaia"     geometry="BossFinalDarkGaia"        layout_merge=""     slot="DarkGaia"    game="Unleashed" />
-  
+
+   <!-- Unused and Preview Build Slots  -->
+  <Entry name="ActD_Test"     geometry="ActD_Test"        layout_merge=""     slot=""     game="Unleashed" />
+  <Entry name="ActN_Test"     geometry="ActN_Test"        layout_merge=""     slot=""     game="Unleashed" />
+  <Entry name="TestEvilEnemy"     geometry="TestEvilEnemy"        layout_merge=""     slot=""     game="Unleashed" />
+  <Entry name="TestEvilLargeFloor"     geometry="TestEvilLargeFloor"        layout_merge=""     slot=""     game="Unleashed" />
+  <Entry name="TestEvilPathFinding_01"     geometry="TestEvilPathFinding_01"        layout_merge=""     slot=""     game="Unleashed" />
+  <Entry name="ActN_Test_Dummy"     geometry="ActN_Test_Dummy"        layout_merge=""     slot=""     game="Unleashed" />
+  <Entry name="ActD_Snow_20080618"     geometry="ActD_Snow"        layout_merge=""     slot="Holoska"     game="Unleashed" />
+  <Entry name="ActN_SubPetra_01"     geometry="ActN_SubPetra_01"        layout_merge=""     slot="Shamar"     game="Unleashed" />
+  <Entry name="ActD_SubPetra_01"     geometry="ActD_SubPetra_01"        layout_merge=""     slot="Shamar"     game="Unleashed" />
+  <Entry name="ActD_Africa_20080621"     geometry="ActD_Africa_20080621"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
+  <Entry name="ActN_ChinaEvil_20080609"     geometry="ActN_ChinaEvil_20080609"        layout_merge=""     slot="ChunNan"     game="Unleashed" />
+  <Entry name="ActN_AfricaEvil_Dje_20080619"     geometry="ActN_AfricaEvil_Dje_20080619"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
+  <Entry name="ActN_AfricaEvil_Bao_20080619"     geometry="ActN_AfricaEvil_Bao_20080619"        layout_merge=""     slot="Mazuri"     game="Unleashed" />
+  <Entry name="ActN_EUEvil_20080604"     geometry="ActN_EUEvil"        layout_merge=""     slot="Spagonia"     game="Unleashed" />
+  <Entry name="Event_afr_hideout_main"     geometry="Event_afr_hideout_main"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M8_08_01chn"     geometry="Event_M8_08_01chn"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M8_08_02afr"     geometry="Event_M8_08_02afr"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M8_08_03EU"     geometry="Event_M8_08_03EU"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M8_08_04snow"     geometry="Event_M8_08_04snow"        layout_merge=""     slot="Event"    game="Unleashed" />
+  <Entry name="Event_M8_12_01chn"     geometry="Event_M8_12_01chn"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M8_12_02afr"     geometry="Event_M8_12_02afr"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M8_12_03EU"     geometry="Event_M8_12_03EU"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M8_12_04snow"     geometry="Event_M8_12_04snow"        layout_merge=""     slot="Event"    game="Unleashed" />
+
+ <!-- Events -->
+  <Entry name="Event_afr_hideout"     geometry="Event_afr_hideout"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_egb_hidout_exterior"     geometry="Event_egb_hidout_exterior"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M2_01_professor_room_new"     geometry="Event_M2_01_professor_room_new"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M4_01_egb_hideout"     geometry="Event_M4_01_egb_hideout"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M6_01_temple"     geometry="Event_M6_01_temple"        layout_merge=""     slot="Event"    game="Unleashed" />
+  <Entry name="Event_M8_02_egbHall"     geometry="Event_M8_02_egbHall"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M8_03"     geometry="Event_M8_03"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_M8_16_myk"     geometry="Event_M8_16_myk"        layout_merge=""     slot="Event"     game="Unleashed" />
+  <Entry name="Event_temple"     geometry="Event_temple"        layout_merge=""     slot="Event"    game="Unleashed" />
+
 </LevelDatabase>
