@@ -186,6 +186,9 @@
    <!-- Unused and Preview Build Slots  -->
   <Entry name="ActD_Test"     geometry="ActD_Test"        layout_merge=""     slot=""     game="Unleashed" />
   <Entry name="ActN_Test"     geometry="ActN_Test"        layout_merge=""     slot=""     game="Unleashed" />
+  <Entry name="TestCourse"     geometry="TestCourse"        layout_merge=""     slot=""     game="Unleashed" />
+  <Entry name="ObjectTest"     geometry="ObjectTest"        layout_merge=""     slot=""     game="Unleashed" />
+  <Entry name="ETestStage"     geometry="ETestStage"        layout_merge=""     slot=""     game="Unleashed" />
   <Entry name="TestEvilEnemy"     geometry="TestEvilEnemy"        layout_merge=""     slot=""     game="Unleashed" />
   <Entry name="TestEvilLargeFloor"     geometry="TestEvilLargeFloor"        layout_merge=""     slot=""     game="Unleashed" />
   <Entry name="TestEvilPathFinding_01"     geometry="TestEvilPathFinding_01"        layout_merge=""     slot=""     game="Unleashed" />
