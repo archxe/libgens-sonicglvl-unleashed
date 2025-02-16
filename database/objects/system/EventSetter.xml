@@ -9,6 +9,9 @@
   <Event3 type="integer" default="0" description="Event to fire on TargetList3" />
   <GroundOffset type="float" default="0" description="" />
   <TargetList0 type="id_list" description="The first list of objects to group" />
+  <TargetList1 type="id_list" description="The second list of objects to group" />
+  <TargetList2 type="id_list" description="The third list of objects to group" />
+  <TargetList3 type="id_list" description="The fourth list of objects to group" />
   <Timer0 type="float" default="0" description="Delay before activating Event0" />
   <Timer1 type="float" default="0" description="Delay before activating Event1" />
   <Timer2 type="float" default="0" description="Delay before activating Event2" />
@@ -16,9 +19,6 @@
   <TimesType type="float" default="1" description="" />
   <Trigger type="float" default="4" description="" />
   <TriggerList type="id_list" description="Triggers the event(s) upon interacting with the object(s)" />
-  <TargetList1 type="id_list" description="The second list of objects to group" />
-  <TargetList2 type="id_list" description="The third list of objects to group" />
-  <TargetList3 type="id_list" description="The fourth list of objects to group" />
   
   <Extra type="model" name="EventSetter.model" />
   <Extra type="description" name="An object which groups objects to trigger an event. Commonly used to trigger an event after killing enemies." />
