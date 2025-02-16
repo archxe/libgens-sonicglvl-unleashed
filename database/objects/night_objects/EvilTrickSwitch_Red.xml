@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <Template>
-  <EventOFF type="float" default="0" description="" />
-  <EventON type="float" default="0" description="" />
+  <EventOFF type="float" default="2" description="" />
+  <EventON type="float" default="1" description="" />
   <GroundOffset type="float" default="0" description="" />
-  <TargetListOFF type="undefined" description="" />
+  <TargetListOFF type="id" description="" />
   <TargetListON type="id" description="" />
   <TimerOFF type="float" default="0" description="" />
   <TimerON type="float" default="0" description="" />
