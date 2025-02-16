@@ -2,7 +2,6 @@
 <Template>
   <GroundOffset type="float" default="0" description="" />
   <IsCastShadow type="bool" default="true" description="" />
-  <IsMessageOn type="bool" default="false" description="" />
   <ResultPosition type="vector" description="" />
   <AddRange type="float" default="0" description="" />
   <BossKeyType type="float" default="3" description="" />
