@@ -7,4 +7,7 @@
   <GroundOffset type="float" default="0" description="" />
   <InsideRadius type="float" default="3" description="" />
   <Radius type="float" default="10" description="" />
+  <Extra type="preview_box_x" name="Radius" />
+  <Extra type="preview_box_y" name="Radius" />
+  <Extra type="preview_box_z" name="Radius" />
 </Template>
