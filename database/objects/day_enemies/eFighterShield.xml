@@ -10,7 +10,7 @@
   <PlayAppearEffect type="bool" default="false" description="" />
   <RadiusActive type="float" default="50" description="" />
   <RadiusAttack type="float" default="4.5" description="" />
-  <ShieldType type="integer" default="0" description="" />
+  <ShieldType type="integer" default="0" description="0 - Normal, 1 - Spring, 2 - Electric" />
   <StartTime type="float" default="2" description="" />
   <StartWayPointID type="id" description="Connect to a WayPointDay object" />
   <Type type="integer" default="1" description="" />
