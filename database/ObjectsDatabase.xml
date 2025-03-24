@@ -16,35 +16,36 @@
   <Entry name="Night Bosses" folder="night_bosses" />
   <Entry name="Apotos Day Objects" folder="mykonos_day" />
   <Entry name="Apotos Night Objects" folder="mykonos_night" />
-  <Entry name="Apotos Town Objects" folder="npc_mykonos" />
+  <Entry name="Apotos Town Objects" folder="twn_mykonos" />
   <Entry name="Mazuri Day Objects" folder="africa_day" />
   <Entry name="Mazuri Night Objects" folder="africa_night" />
-  <Entry name="Mazuri Town Objects" folder="npc_africa" />
+  <Entry name="Mazuri Town Objects" folder="twn_africa" />
   <Entry name="Spagonia Day Objects" folder="euc_day" />
   <Entry name="Spagonia Night Objects" folder="euc_night" />
-  <Entry name="Spagonia Town Objects" folder="npc_euc" />
+  <Entry name="Spagonia Town Objects" folder="twn_euc" />
   <Entry name="Chun Nan Day Objects" folder="china_day" />
   <Entry name="Chun Nan Night Objects" folder="china_night" />
-  <Entry name="Chun Nan Town Objects" folder="npc_china" />
+  <Entry name="Chun Nan Town Objects" folder="twn_china" />
   <Entry name="Holoska Day Objects" folder="holoska_day" />
   <Entry name="Holoska Night Objects" folder="holoska_night" />
-  <Entry name="Holoska Town Objects" folder="npc_holoska" />
+  <Entry name="Holoska Town Objects" folder="twn_holoska" />
   <Entry name="Shamar Day Objects" folder="shamar_day" />
   <Entry name="Shamar Night Objects" folder="shamar_night" />
-  <Entry name="Shamar Town Objects" folder="npc_shamar" />
+  <Entry name="Shamar Town Objects" folder="twn_shamar" />
   <Entry name="Empire City Day Objects" folder="nyc_day" />
   <Entry name="Empire City Night Objects" folder="nyc_night" />
-  <Entry name="Empire City Town Objects" folder="npc_nyc" />
+  <Entry name="Empire City Town Objects" folder="twn_nyc" />
   <Entry name="Adabat Day Objects" folder="adabat_day" />
   <Entry name="Adabat Night Objects" folder="adabat_night" />
-  <Entry name="Adabat Town Objects" folder="npc_adabat" />
+  <Entry name="Adabat Town Objects" folder="twn_adabat" />
   <Entry name="EggmanLand Objects" folder="eggman_obj" />
-  <Entry name="EggmanLand Town Objects" folder="npc_eggman" />
-  <Entry name="Lab Objects" folder="npc_lab" />
+  <Entry name="EggmanLand Town Objects" folder="twn_eggman" />
+  <Entry name="NPCs" folder="npc" />
+  <Entry name="Lab Objects" folder="twn_lab" />
   <Entry name="Dark Gaia Objects" folder="darkgaia_obj" />
   <Entry name="Tornado Defence Objects" folder="tornado_obj" />
   <Entry name="Common Unused" folder="unused" />
   <Entry name="Day Unused" folder="unused_day" />
   <Entry name="Night Unused" folder="unused_night" />
-  <Entry name="Unassigned" folder="" />
+  <Entry name="Unassigned" folder="unassigned" />
 </LevelDatabase>
