@@ -16,7 +16,6 @@
   <Entry name="Night Bosses" folder="night_bosses" />
   <Entry name="Apotos Day Objects" folder="mykonos_day" />
   <Entry name="Apotos Night Objects" folder="mykonos_night" />
-  <Entry name="Apotos Town Objects" folder="twn_mykonos" />
   <Entry name="Mazuri Day Objects" folder="africa_day" />
   <Entry name="Mazuri Night Objects" folder="africa_night" />
   <Entry name="Mazuri Town Objects" folder="twn_africa" />
@@ -28,7 +27,6 @@
   <Entry name="Chun Nan Town Objects" folder="twn_china" />
   <Entry name="Holoska Day Objects" folder="holoska_day" />
   <Entry name="Holoska Night Objects" folder="holoska_night" />
-  <Entry name="Holoska Town Objects" folder="twn_holoska" />
   <Entry name="Shamar Day Objects" folder="shamar_day" />
   <Entry name="Shamar Night Objects" folder="shamar_night" />
   <Entry name="Shamar Town Objects" folder="twn_shamar" />
@@ -38,8 +36,7 @@
   <Entry name="Adabat Day Objects" folder="adabat_day" />
   <Entry name="Adabat Night Objects" folder="adabat_night" />
   <Entry name="Adabat Town Objects" folder="twn_adabat" />
-  <Entry name="EggmanLand Objects" folder="eggman_obj" />
-  <Entry name="EggmanLand Town Objects" folder="twn_eggman" />
+  <Entry name="Eggmanland Objects" folder="eggman_obj" />
   <Entry name="NPCs" folder="npc" />
   <Entry name="Lab Objects" folder="twn_lab" />
   <Entry name="Dark Gaia Objects" folder="darkgaia_obj" />
