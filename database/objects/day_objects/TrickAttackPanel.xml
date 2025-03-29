@@ -9,5 +9,6 @@
   <m_SuccessSpeed type="float" default="50.5998" description="" />
   <m_TrickCount type="float" default="3" description="" />
   <m_TrickTime type="float" default="5.6" description="" />
+  <Extra type="model" name="cmn_obj_km_AreactionpanelM_000.model"/>
   <Extra type="description" name="A ReactionPlate which causes Sonic to Homing Attack the target. This is used in the Egg Lancer boss fight." />
 </Template>

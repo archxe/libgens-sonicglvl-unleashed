@@ -3,8 +3,8 @@
   <GroundOffset type="float" default="0" description="" />
   <IntervalAttack type="float" default="1" description="" />
   <IntervalShot type="float" default="0.5" description="" />
-  <NumAttackOneTime type="float" default="2" description="" />
-  <NumShotOneTime type="float" default="3" description="" />
+  <NumAttackOneTime type="integer" default="2" description="" />
+  <NumShotOneTime type="integer" default="3" description="" />
   <RadiusAppear type="float" default="40" description="" />
   <RadiusEscape type="float" default="10" description="" />
   <ShotType type="integer" default="0" description="" />

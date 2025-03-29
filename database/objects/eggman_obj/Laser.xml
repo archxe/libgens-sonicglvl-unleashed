@@ -5,7 +5,7 @@
   <GroundOffset type="float" default="0" description="" />
   <IsUseMessage type="bool" default="false" description="" />
   <Length type="float" default="5.1" description="" />
-  <ModelType type="float" default="1" description="" />
+  <ModelType type="integer" default="1" description="" />
   <MoveDirection type="float" default="0" description="" />
   <OffTime type="float" default="0" description="" />
   <OnTime type="float" default="3" description="" />

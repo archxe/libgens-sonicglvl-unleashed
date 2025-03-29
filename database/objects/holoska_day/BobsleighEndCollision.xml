@@ -6,4 +6,7 @@
   <UncontrollableTime type="float" default="3" description="" />
   <Velocity type="float" default="40" description="" />
   <LeaveType type="integer" default="0" description="0 = Mini Jump, 1 = Maintain Speed" />
+  
+    <Extra type="preview_box_x" name="Collision_Width" />
+  <Extra type="preview_box_y" name="Collision_Height" />
 </Template>

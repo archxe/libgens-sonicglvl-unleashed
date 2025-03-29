@@ -4,7 +4,7 @@
   <AttackTime type="float" default="5" description="" />
   <FirstSpeed type="float" default="10" description="" />
   <GroundOffset type="float" default="0" description="" />
-  <IsUseFootIK type="bool" default="false" description="" />
+  <IsUseFootIK type="bool" default="true" description="" />
   <MoveTypeSideView type="bool" default="false" description="" />
   <OnlyPlayerAttack type="bool" default="true" description="" />
   <PlayAppearEffect type="bool" default="false" description="" />

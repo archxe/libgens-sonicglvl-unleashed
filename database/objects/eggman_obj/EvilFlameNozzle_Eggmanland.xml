@@ -8,5 +8,5 @@
   <Length type="float" default="2" description="" />
   <ShockTimeEvil type="float" default="10" description="" />
   <StartTime type="float" default="2" description="" />
-  <Type type="float" default="1" description="" />
+  <Type type="integer" default="1" description="" />
 </Template>

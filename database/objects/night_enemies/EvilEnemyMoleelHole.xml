@@ -4,5 +4,5 @@
   <IsHomeHole type="bool" default="true" description="" />
   <MoleelCount type="float" default="1" description="" />
   <Personality type="float" default="2" description="" />
-  <TargetList type="undefined" description="" />
+  <TargetList type="id_list" description="" />
 </Template>

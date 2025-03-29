@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <Template>
-  <IsUseFootIK type="bool" default="false" description="" />
+  <IsUseFootIK type="bool" default="true" description="" />
   <MoveTypeSideView type="bool" default="false" description="" />
   <OnlyPlayerAttack type="bool" default="true" description="" />
   <PlayAppearEffect type="bool" default="false" description="" />

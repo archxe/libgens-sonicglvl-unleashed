@@ -10,7 +10,7 @@
   <IsPathChange type="bool" default="false" description="Automatically places the player on a new spline if they're launched to one" />
   <IsQuestion type="bool" default="false" description="Displays a question mark as the success button" />
   <SuccessButton type="float" default="2" description="The button displayed on the jump selector:
-  0: Unknown   1: B   2: X" />
+  0: A   1: B   2: X" />
   <UpJumpForce type="float" default="21" description="Speed granted when launching with the A button" />
   <UpJumpOutOfControl type="float" default="0" description="Time taken before restoring control to the player after launching with the A button" />
   <UpJumpPitch type="float" default="0" description="Angle of the launch on the Y axis after launching with the A button" />

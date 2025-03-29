@@ -11,7 +11,7 @@
   <IsUseMessage type="bool" default="false" description="" />
   <Length type="float" default="3" description="" />
   <MoveDirection type="float" default="0" description="" />
-  <MoveType type="float" default="0" description="" />
+  <MoveType type="integer" default="0" description="" />
   <Phase type="float" default="0" description="" />
   <SpeedOnPath type="float" default="1" description="" />
   <StopTime type="float" default="0" description="" />

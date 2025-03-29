@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <Template>
   <AppearSpeed type="float" default="20" description="" />
-  <AppearType type="float" default="0" description="" />
+  <AppearType type="integer" default="0" description="" />
   <AttackRatioLaser type="float" default="0.7" description="" />
   <AttackRatioShockwave type="float" default="0.3" description="" />
   <AttackTimeAdd type="float" default="0" description="" />
@@ -24,7 +24,7 @@
   <LaserSpeed type="float" default="1" description="" />
   <LaserTime type="float" default="2" description="" />
   <LeaveBoostScale type="float" default="40" description="" />
-  <LeaveType type="float" default="1" description="" />
+  <LeaveType type="integer" default="1" description="" />
   <LifePoint type="float" default="6" description="" />
   <MaximumSpeed type="float" default="80" description="" />
   <MinimumSpeed type="float" default="40" description="" />

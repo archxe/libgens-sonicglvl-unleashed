@@ -9,4 +9,7 @@
   <State_Caution type="float" default="20" description="" />
   <State_Danger type="float" default="20" description="" />
   <State_Normal type="float" default="8" description="" />
+    <Extra type="preview_box_x" name="Collision_Width" />
+  <Extra type="preview_box_y" name="Collision_Height" />
+  <Extra type="preview_box_z" name="Collision_Length" />
 </Template>
