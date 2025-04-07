@@ -35,3 +35,4 @@ Setup Guide:
 Contributors:
 - GordinRamsay (https://github.com/GordinRamsay)
 - NextinHKRY (https://github.com/NextinMono)
+- Starlight (https://github.com/StarlightDX)
