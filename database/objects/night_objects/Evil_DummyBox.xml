@@ -5,4 +5,5 @@
   <Distance type="float" default="1000" description="" />
   <Layer type="float" default="0" description="" />
   <Time type="float" default="0.25" description="" />
+  <Extra type="model" name="cmn_evl_obj_ms_woodboxM_000.model" />
 </Template>

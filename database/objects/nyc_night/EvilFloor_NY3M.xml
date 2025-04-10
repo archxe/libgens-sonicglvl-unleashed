@@ -7,11 +7,11 @@
   <FitDirection type="float" default="0" description="" />
   <Gravity type="float" default="45" description="" />
   <GroundOffset type="float" default="0" description="" />
-  <IsAdvance type="float" default="0" description="" />
+  <IsAdvance type="integer" default="0" description="" />
   <IsFitPath type="bool" default="true" description="" />
   <IsUseMessage type="bool" default="false" description="" />
   <MoveDirection type="float" default="0" description="" />
-  <MoveType type="float" default="0" description="" />
+  <MoveType type="integer" default="0" description="" />
   <OnFloorTime type="float" default="3" description="" />
   <Phase type="float" default="0" description="" />
   <ResetTime type="float" default="5" description="" />
@@ -19,4 +19,5 @@
   <RotationSpeed type="float" default="0" description="" />
   <SpeedOnPath type="float" default="1" description="" />
   <StopTime type="float" default="0" description="" />
+  <Extra type="model" name="evl_nyc_obj_sk2_floor_3M.model" />
 </Template>

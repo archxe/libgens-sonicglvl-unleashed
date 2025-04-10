@@ -19,4 +19,5 @@
   <RotationSpeed type="float" default="0" description="" />
   <SpeedOnPath type="float" default="1" description="" />
   <StopTime type="float" default="0" description="" />
+  <Extra type="model" name="nyc_obj_ik_floorC.model" />
 </Template>

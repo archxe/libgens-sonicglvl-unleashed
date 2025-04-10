@@ -200,3 +200,13 @@ bin/HedgehogConverter.ini
 bin/HavokConverter.ini
 bin/ogre.cfg
 bin/HavokConverter - Unleashed.exe
+bin/\!decompress.bat
+bin/Compress.bat
+bin/msvcp71.dll
+bin/msvcr71.dll
+bin/ogre.cfg
+bin/xbcompress.exe
+bin/xbdecompress.exe
+bin/xbdm.dll
+bin/ogre.cfg
+/bin

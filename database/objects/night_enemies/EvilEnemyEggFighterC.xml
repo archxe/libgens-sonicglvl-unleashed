@@ -5,5 +5,5 @@
   <PatrolType type="integer" default="1" description="" />
   <Personality type="integer" default="1" description="" />
   <StartWayPointID type="integer" default="1" description="" />
-  <Extra type="model" name="enm_eggfighter_HD.model" />
+  <Extra type="model" name="em_eday_ef2n_hi.model" />
 </Template>

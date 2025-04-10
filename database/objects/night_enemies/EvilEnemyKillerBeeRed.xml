@@ -5,6 +5,5 @@
   <PatrolType type="integer" default="0" description="" />
   <Personality type="integer" default="0" description="" />
   <StartWayPointID type="integer" default="0" description="" />
-  
-  
+  <Extra type="model" name="em_dark_kbeg_hi.model" />
 </Template>

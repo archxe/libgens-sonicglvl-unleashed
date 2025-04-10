@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <Template>
-  <Category type="float" default="0" description="" />
+  <Category type="integer" default="0" description="" />
   <ChangeTime type="float" default="-0.1" description="" />
-  <CharaType type="float" default="1" description="0 = Sonic, 1 = Chip, 2 = Tails" />
+  <CharaType type="integer" default="1" description="0 = Sonic, 1 = Chip, 2 = Tails" />
   <DrawCharWait type="float" default="-0.01" description="" />
   <DrawOnce type="bool" default="true" description="" />
   <EndWait type="float" default="-0.1" description="" />
