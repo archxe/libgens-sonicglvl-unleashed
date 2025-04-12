@@ -5,5 +5,5 @@
   <OffTime type="float" default="10" description="" />
   <OnTime type="float" default="0" description="" />
   <Phase type="float" default="0" description="" />
-  <Extra type="model" name="evil_nyc_obj_dml_ironbridgeB.model" />
+  <Extra type="model" name="evl_nyc_obj_shockironbridgeB.model" />
 </Template>
